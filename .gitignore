@@ -32,3 +32,66 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+# build output
+/dist/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS files
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# Documentation & guides (not needed in production)
+BEFORE_AFTER_GUIDE.md
+BUILD_SUCCESS.md
+CONFIG_INTEGRATION_GUIDE.md
+DEBUG_COMPLETE.md
+DESIGN_CHANGES.md
+DESIGN_UPGRADE.md
+DEVELOPMENT.md
+EXECUTIVE_SUMMARY.md
+IMPLEMENTATION_CHECKLIST.md
+PROJECT_CLEANUP_REPORT.md
+PROJECT_INFO.md
+QUICK_START.md
+SECURITY_POLICY.md
+VITE_DEBUG_COMPLETE.md
+VISUAL_DESIGN_GUIDE.md
+UI_UX_DOCUMENTATION.md
+VERCEL_DEPLOYMENT.md
+VERCEL_SETUP.sh
+DEPLOYMENT_CHECKLIST.md
+DEPLOYMENT_FILES_INDEX.md
+DEPLOYMENT_READY.md
+QUICK_DEPLOY.md
+README_DEPLOYMENT.md
+START_HERE.bat
+START_HERE.sh
+
+# Deployment scripts (can run locally)
+deploy.sh
+deploy.ps1
+
+# GitHub agents (development only)
+.github/agents/
+
+# Development files
+.env.production
+.env.example
+
+# Backup and temporary files
+*.backup
+*.tmp
+*.bak
+*.log
+
+# Lock files (optional - can be committed for reproducibility)
+# package-lock.json
+# yarn.lock
