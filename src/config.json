@@ -1,0 +1,88 @@
+{
+  "company": {
+    "name": "Nanolez Tech",
+    "email": "contact@nanolez.tech",
+    "phone": "",
+    "website": "",
+    "address": "",
+    "logo": ""
+  },
+  "products": [
+    {
+      "id": "scholarmind-ai",
+      "name": "ScholarMind AI",
+      "url": "nl-scholarmindai.vercel.app",
+      "description": "",
+      "status": "active",
+      "launchDate": "",
+      "features": []
+    },
+    {
+      "id": "nanolez-eduai",
+      "name": "Nanolez EduAI",
+      "url": "nanolez-eduai.web.app",
+      "description": "",
+      "status": "active",
+      "launchDate": "",
+      "features": []
+    }
+  ],
+  "branding": {
+    "primaryColor": "#6366f1",
+    "secondaryColor": "#ec4899",
+    "accentColor": "#f59e0b",
+    "fontFamily": "Inter, system-ui, sans-serif",
+    "logo": ""
+  },
+  "social": {
+    "github": "github.com/NabidAhammed",
+    "twitter": "",
+    "linkedin": "linkedin.com/in/nalimon",
+    "instagram": "",
+    "discord": "",
+    "facebook": ""
+  },
+  "team": [
+    {
+      "id": "member-1",
+      "name": "",
+      "role": "",
+      "email": "",
+      "github": ""
+    }
+  ],
+  "services": [
+    {
+      "id": "service-1",
+      "name": "",
+      "description": "",
+      "price": "",
+      "features": []
+    }
+  ],
+  "api": {
+    "baseUrl": "",
+    "version": "1.0",
+    "authType": "Bearer",
+    "rateLimit": ""
+  },
+  "deployment": {
+    "provider": "Vercel",
+    "primaryDomain": "",
+    "backupDomain": "",
+    "cdn": "",
+    "database": ""
+  },
+  "seo": {
+    "metaTitle": "Nanolez Tech - Innovation Hub",
+    "metaDescription": "",
+    "keywords": [],
+    "ogImage": ""
+  },
+  "metadata": {
+    "launchTimeline": "",
+    "currentPhase": "",
+    "nextMilestones": []
+  },
+  "lastUpdated": "2026-01-13"
+}
